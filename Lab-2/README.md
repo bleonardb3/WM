@@ -1,4 +1,4 @@
-## DSX SPSS Modeler Lab
+## Watson Studio SPSS Modeler Lab
 
 ## Introduction: 
 
