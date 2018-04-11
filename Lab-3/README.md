@@ -24,7 +24,7 @@ Upon completing the lab, you will know how to:
 > <img src="https://github.com/bleonardb3/WM/blob/master/Lab-3/Images/Projects%20Tab.png"/>
 
 
-### Step 2.  Click the `add notebooks` link in the top right of your project pane.
+### Step 2.  Click the `Add to project link` and then click the `add notebooks` link in the top right of your project pane.
 
 > <img src="https://github.com/bleonardb3/WM/blob/master/Lab-3/Images/Add%20Notebook%20to%20Project.png"/>
 
@@ -32,8 +32,8 @@ Upon completing the lab, you will know how to:
 
 > <img src="https://github.com/bleonardb3/WM/blob/master/Lab-3/Images/Create%20Notebook%20from%20URL.png"/>
 
-1. Click the `From URL` tab under `Create Notebook`.
-1. Give the notebook a name in the `Name` field, for example `Titanic` and optionally you can give it a description.
+1. Click the `From URL` tab under `New Notebook`.
+1. Give the notebook a name in the `Name` field, for example `Titanic Student` and optionally you can give it a description.
 1. In the Notebook URL field, use `https://github.com/bleonardb3/WM/blob/master/Lab-3/TitanicStudent.ipynb`.
 1. Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
 
