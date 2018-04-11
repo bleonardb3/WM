@@ -2,13 +2,13 @@
 
 ## Introduction: 
 
-In this lab, you will use the Data Science Experience SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines. 
+In this lab, you will use the Watson SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines. 
 
 ## Objectives: 
 
 Upon completing the lab, you will:
 
-1. Become familiar with the DSX SPSS Modeler capability
+1. Become familiar with the Watson Studio SPSS Modeler capability
 2. Profile the Titanic data set 
 3. Explore the Titanic data set with visualizations
 4. Cleanse and Transform the data 
