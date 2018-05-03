@@ -40,7 +40,7 @@ The labs in this Proof of Technology will require the following services to be c
 1. Watson Machine Learning
 1. Apache Spark  
 
-The Object Storage service instance should already exist, having been created when the Watson Studio Labs (or whatever you named it) project was created. Both the Watson Machine Learning service, and the Apache Spark service need to be created and then associated with the project.  
+ALL THESE SERVICES SHOULD EXIST IF YOU COMPLETED LAB 1. SO SKIP TO STEP 10. 
 
 ### Step 3.  Click on the project `Settings` tab.
 
@@ -79,7 +79,7 @@ The Object Storage service instance should already exist, having been created wh
 
 1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Heart Disease` and optionally you can give it a description.
-1. In the Notebook URL field, use `https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/Heart%20Disease.ipynb`.
+1. In the Notebook URL field, use `https://github.com/bleonardb3/WM/blob/master/Lab-4/Heart%20Disease.ipynb`.
 1. Select the Spark environment that you created, then click the `Create Notebook` button on the bottom right of the screen.
 
 ### Step 12.  Follow the instructions in the notebook.
